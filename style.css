@@ -71,6 +71,16 @@ html {
     .orb--blue {
         background: radial-gradient(circle, hsl(210 60% 60% / 0.1), transparent 70%);
     }
+
+    .age-card,
+    .stat {
+        border-color: var(--border);
+    }
+
+    .next-bday-bar,
+    .info-chip {
+        background: hsl(191 30% 18% / 0.6);
+    }
 }
 
 /* ── Base ────────────────────────────────────────────────── */
