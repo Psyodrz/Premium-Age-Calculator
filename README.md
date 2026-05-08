@@ -2,7 +2,6 @@
 
 A beautifully designed, highly precise age calculator built completely from scratch using vanilla web technologies. It goes beyond simple years and months, providing an exact breakdown of the total days, weeks, hours, and minutes you've been alive, along with fun extras like your Zodiac sign.
 
-![Premium Age Calculator Screenshot](https://raw.githubusercontent.com/Psyodrz/Premium-Age-Calculator/main/screenshot.png)
 
 ## 🌟 Features
 
